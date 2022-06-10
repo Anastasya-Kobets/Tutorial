@@ -1,0 +1,88 @@
+body {
+    font-family: 'Roboto', sans-serif;}
+
+.logo {
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    text-decoration: none;
+    letter-spacing: 0.03em;
+    line-height: 1.19;
+    font-style: normal;
+    font-family: 'Raleway';
+    text-decoration: none;
+    color: #000000;
+}
+
+.logo-first{
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    color: #2196f3;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    text-decoration: none;
+    letter-spacing: 0.03em;
+    line-height: 1.19;
+    font-style: normal;
+}
+.font-hero-header{
+    background: #2F303A;
+}
+
+.headline-nave{
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+
+    color: #000000;
+}
+li {
+    list-style: none;}
+
+.headline-nave:hover{
+    color: #2196f3;
+}
+.headline-nave:focus{
+    color: #2196f3;
+}
+
+.text-hero-header {
+    font-size: 44px;
+    line-height: 60px;
+    color: #ffffff;
+    font-weight: 900;
+
+}
+.logo-second{
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    color: #ffffff;
+}
+.bottom {
+    font-size: 14px;
+    line-height: 24px;
+    color: #ffffff;
+    font-weight: 400;
+}
+
+
+.section-title{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 36px;
+    color: #212121;
+}
+.section-p-text-port{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #757575;
+}
