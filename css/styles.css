@@ -187,10 +187,12 @@ a {
     color: var(--white-color);
     font-size: 26px;
     line-height: 31px;
+    font-family: var(--second-font);
 
 }
 .font-hero-footer {
     background: #2F303A;
+
 
 
 }
