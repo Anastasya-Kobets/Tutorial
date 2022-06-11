@@ -77,6 +77,7 @@ li {
     font-weight: 700;
     font-size: 26px;
     line-height: 31px;
+    font-family: var(--second-font);
 
 }
 .button-navi-port:focus {
@@ -117,4 +118,24 @@ li {
 .box-projects {
     background: #FFFFFF;
     border: 1px solid #EEEEEE;
+}
+
+.font-hero-footer {
+    background: #2F303A;
+
+}
+.bottom:hover {
+    color: var(--white-color);
+}
+
+.bottom:focus {
+    color: var(--white-color);
+}
+.bottom {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);
 }
