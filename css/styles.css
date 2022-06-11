@@ -65,6 +65,9 @@ li {
     color: var(--black-color);
 
 }
+a {
+    text-decoration: none;
+}
 .headline-nave-contact {
     font-style: normal;
     font-weight: 500;
