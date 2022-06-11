@@ -15,7 +15,8 @@ body {
     font-family: var(--main-font);
     font-size: 14px;
     color: var(--black-color);
-    background-color: var(--white-color);}
+    background-color: var(--white-color);
+}
 
 .logo {
     font-size: 26px;
@@ -79,11 +80,13 @@ li {
 
 }
 .button-navi-port:focus {
-    color: var(--blue-color);
+    color: var(--white-color);
+    background: var(--blue-color);
 
 }
 .button-navi-port:hover {
-    color: var(--blue-color);
+    color: var(--white-color);
+    background: var(--blue-color);
 
 }
 
