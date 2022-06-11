@@ -51,7 +51,6 @@ li {
     font-size: 26px;
     line-height: 1.19;
     color: var(--blue-color);
-    text-decoration: none;
     letter-spacing: 0.03em;
     font-style: normal;
 }
@@ -156,13 +155,15 @@ a {
 
 }
 
-
+.bottom {
+    color: var(--white-color);
+}
 
 .bottom:hover {
     color: var(--blue-color);
 }
 
-.buttom:focus {
+.bottom:focus {
     color: var(--blue-color);
 }
 
@@ -186,5 +187,10 @@ a {
     color: var(--white-color);
     font-size: 26px;
     line-height: 31px;
+
+}
+.font-hero-footer {
+    background: #2F303A;
+
 
 }
