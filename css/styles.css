@@ -156,15 +156,20 @@ a {
 }
 
 .bottom {
-    color: var(--white-color);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);
 }
 
 .bottom:hover {
-    color: var(--blue-color);
+    color: var(--white-color);
 }
 
 .bottom:focus {
-    color: var(--blue-color);
+    color: var(--white-color);
 }
 
 .team-names {
@@ -188,6 +193,7 @@ a {
     font-size: 26px;
     line-height: 31px;
     font-family: var(--second-font);
+
 
 }
 .font-hero-footer {
