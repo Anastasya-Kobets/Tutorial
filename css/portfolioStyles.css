@@ -99,6 +99,7 @@ li {
     color: var(--black-color);
     background: #F5F4FA;
     border-radius: 4px;
+
 }
 
 .section-title{
@@ -112,4 +113,8 @@ li {
     font-size: 16px;
     line-height: 30px;
     color: #757575;
+}
+.box-projects {
+    background: #FFFFFF;
+    border: 1px solid #EEEEEE;
 }
