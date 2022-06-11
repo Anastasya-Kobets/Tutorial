@@ -51,8 +51,12 @@ li {
     font-size: 26px;
     line-height: 1.19;
     color: var(--blue-color);
+    text-decoration: none;
     letter-spacing: 0.03em;
     font-style: normal;
+}
+.font-hero-header{
+    background: #2F303A;
 }
 
 .headline-nave {
@@ -199,4 +203,42 @@ a {
 .font-hero-footer {
     background: #2F303A;
 
+}
+.button-navi-port:focus {
+    color: var(--white-color);
+    background: var(--blue-color);
+
+}
+.button-navi-port:hover {
+    color: var(--white-color);
+    background: var(--blue-color);
+
+}
+.button-navi-port {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: var(--black-color);
+    background: #F5F4FA;
+    border-radius: 4px;
+
+}
+.box-projects {
+    background: #FFFFFF;
+    border: 1px solid #EEEEEE;
+}
+.section-title{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 36px;
+    color: var(--second-black);
+}
+.section-p-text-port{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #757575;
 }
