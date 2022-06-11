@@ -27,6 +27,8 @@ body {
     color: var(--black-color);
 
 }
+a {
+    text-decoration: none;}
 
 .logo-first{
     font-size: 26px;
