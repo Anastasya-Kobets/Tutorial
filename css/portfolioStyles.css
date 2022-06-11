@@ -97,6 +97,8 @@ li {
     text-align: center;
     letter-spacing: 0.03em;
     color: var(--black-color);
+    background: #F5F4FA;
+    border-radius: 4px;
 }
 
 .section-title{
