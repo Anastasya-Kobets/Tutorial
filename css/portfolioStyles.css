@@ -89,7 +89,15 @@ li {
     background: var(--blue-color);
 
 }
-
+.button-navi-port {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: var(--black-color);
+}
 
 .section-title{
     font-weight: 700;
