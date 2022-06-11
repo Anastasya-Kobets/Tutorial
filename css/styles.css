@@ -35,6 +35,15 @@ li {
 
 .font-hero-header {
     background: #2F303A;
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    text-align: center;
+    letter-spacing: 0.06em;
+    color: var(--white-color);
+
 }
 
 .logo-first {
@@ -95,8 +104,12 @@ li {
 
 
 .headline-link-title {
-
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
     line-height: 16px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
     color: var(--second-black);
 
 }
