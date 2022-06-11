@@ -65,7 +65,23 @@ li {
     color: var(--black-color);
 
 }
+.headline-nave-contact {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #757575;
 
+}
+
+.headline-nave-contact:hover {
+    color: var(--blue-color);
+}
+
+.headline-nave-contact:focus {
+    color: var(--blue-color);
+}
 .current {
     color: var(--blue-color);
 }
